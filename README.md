@@ -18,6 +18,6 @@ chat_id=(Your Telegram chat id - you can text to @userinfobot via Telegram to ge
 ```
 4) Run main.py
 
-##Project goals
+## Project goals
 Make a useful utility for learning and have fun, of course
 
